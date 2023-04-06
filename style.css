@@ -1,0 +1,22 @@
+.headergoogle{
+    text-align: center;
+    font-size: 50px;
+}
+
+.searchinput{
+    text-align: center;
+    justify-content: center;
+}
+input{
+    width: 40%;
+    border-radius: 20px;
+    padding: 15px;
+}
+.submit{
+    display: flex;
+    justify-content: center;
+}
+button{
+    width: 10%;
+    border-radius: 10px;
+}
